@@ -8,7 +8,7 @@ function closeLogin() {
 
 function login(event) {
     event.preventDefault();
-    window.location.reload();
+    window.location.reload()
 }
 
 function openMovie(movie) {
